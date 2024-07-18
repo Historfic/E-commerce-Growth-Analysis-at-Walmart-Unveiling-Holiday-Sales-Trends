@@ -2,7 +2,7 @@
 
 ![alt text](walmartecomm.jpg)
 
-![text](<Walmart Diagram.html>)
+![alt text](<Walmart Diagram.html>)
 
 ![alt text](Walmart.jpg)
 
